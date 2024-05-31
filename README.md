@@ -3,7 +3,7 @@
 ## Introduction
 The goal is to use 2 esp32 boards wheres one of them will send the joystick commands and the second one will transfer the commands to a bought flight controller.
 
-### Sender 
+### Sender (Sender.ino)
 To control the quad ive printed a 3d controller with 2 thumb joysticks that also has push buttons for ARMing and changing the flight mode.
 They are connected to an esp32.
 <p float="left">
@@ -11,7 +11,7 @@ They are connected to an esp32.
   <img src="./assets/1.jpg" width="300" /> 
 </p>
 
-### Recivcer 
+### Recivcer (ReciverIBUS.ino)
 The Recivcer is an esp32s3 which sends via IBUS the recived commands to the flight controller running betaFlight.
 One of the signals is a constant number that is checked upon recive to validate the message.
 
