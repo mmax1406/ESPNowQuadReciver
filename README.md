@@ -8,7 +8,7 @@ Iv'e printed a 3d controller with 2 thumb joysticks for control that also hace p
 They are connected to an esp32.
 <p float="left">
   <img src="./assets/0.jpg" width="150" />
-  <img src="./assets/0.jpg" width="150" /> 
+  <img src="./assets/1.jpg" width="150" /> 
 </p>
 
 ### Recivcer 
@@ -24,6 +24,6 @@ One of the signals is a constant number that is checked upon recive to validate 
 A small video of the system working in the betaFlight app.
 <tr>
     <td colspan="4" style="text-align:center;">
-      <video muted="" autoplay="autoplay" loop="loop" src=""./assets/vid.mp4" style="width: 80%; height: auto;"></video>
+      <video muted="" autoplay="autoplay" loop="loop" src="./assets/vid.mp4" style="width: 80%; height: auto;"></video>
     </td>
 </tr>
