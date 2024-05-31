@@ -4,7 +4,7 @@
 The goal is to use 2 esp32 boards wheres one of them will send the joystick commands and the second one will transfer the commands to a bought flight controller.
 
 ### Sender 
-I've printed a 3d controller with 2 thumb joysticks for control that also hace push buttons for ARMing and changing the flight mode.
+To control the quad ive printed a 3d controller with 2 thumb joysticks that also has push buttons for ARMing and changing the flight mode.
 They are connected to an esp32.
 <p float="left">
   <img src="./assets/0.jpg" width="300" />
