@@ -22,5 +22,8 @@ One of the signals is a constant number that is checked upon recive to validate 
 
 ### Demonstration video
 A small video of the system working in the betaFlight app.
-<video src='./assets/vid.mp4' width=300/>
+<video src="https://github.com/mmax1406/ESPNowQuadReciver/assets/83958573/7fff8d3d-69e9-45aa-8dc3-a3fcc9aecb53" style="width: auto; height: auto;"></video>
+
+
+
 
